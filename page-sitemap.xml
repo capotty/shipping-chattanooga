@@ -23,28 +23,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/rentals/</loc>
-		<lastmod>2025-02-09T00:08:49+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/40-shipping-containers-1024x585.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/20-shipping-containers.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/10-foot-shipping-container.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/53-ft-storage-container-1024x585.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/45-ft-shipping-container-1024x585.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/24-foot-storage-container-1024x585.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/red-bank/</loc>
 		<lastmod>2025-02-09T00:08:49+00:00</lastmod>
 		<image:image>
@@ -130,6 +108,28 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/45-ft-shipping-container-1024x585.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/rentals/</loc>
+		<lastmod>2025-02-09T00:08:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/40-shipping-containers-1024x585.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/20-shipping-containers.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/10-foot-shipping-container.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/53-ft-storage-container-1024x585.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/45-ft-shipping-container-1024x585.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/24-foot-storage-container-1024x585.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
